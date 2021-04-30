@@ -22,3 +22,42 @@ Expertise:
 - Skilled Change Manager: process analysis, design, implementation, and maintenance
 - Business Analysis and specification writing skills
 - Measuring and improving the efficiency of software delivery and company performance
+
+
+## Experience
+
+// TBD
+
+
+## Certifications
+
+### PRINCE2® 2017 Foundation & Practitioner
+
+AXELOS Global Best Practice
+
+Issued: Apr 2015
+
+Credential ID: [03041374-01-DX4Y](https://drive.google.com/file/d/1QvKjg36DZqBF6Q6Jto7_YFd0ckd51VL0/view?usp=sharing)
+
+
+
+## Education
+
+### Vilniaus universitetas / Vilnius University
+
+Years: 2004 - 2008
+
+Bachelor's degree of Computer Science
+
+
+
+## Projects
+
+// TBD
+
+
+## Contacts
+
+Email: kazimieras.lukauskas@meritstory.com
+
+Phone: +370 606 35919
