@@ -1,5 +1,7 @@
 # Kazimieras Lukauskas
 
+
+
 ## About me
 
 Pragmatic and down to earth IT professional with progressive more than 15 years of experience in the industry, Kazimieras is now CEO at MeritStory, where he works at the intersection of business and technology, helping clients research, identify, and create the right software products to suit their needs.
@@ -25,9 +27,61 @@ Expertise:
 - Measuring and improving the efficiency of software delivery and company performance
 
 
+
 ## Experience
 
-// TBD
+### Co-founder & CEO at MeritStory
+
+Years: 2020 - present
+
+Main responsibilities:
+
+- Company processes and strategy management
+- Client relationships management
+- Client business needs analysis and technical solution proposition
+- Establishing project budgets, negotiating contracts, and scheduling teams
+- Leading of software development teams
+- Setting long and short term goals for employees, monitoring of achievements
+- Identification of staffing needs, recruitment and selection
+- Public and private sector sales
+
+
+### Co-owner & Partner at Mediapark
+
+Years: 2011 - 2020
+
+Main responsibilities:
+
+- Client relationships management
+- Client business needs analysis and technical solution proposition
+- Establishing project budgets, negotiating contracts, and scheduling teams
+- Leading of software development teams
+- Setting long and short term goals for employees, monitoring of achievements
+- Identification of staffing needs, recruitment and selection
+- Public and private sector sales
+
+
+### Co-owner, CTO & Managing Director at Timebase
+
+Years: 2013 - 2018
+
+Main responsibilities:
+
+- Providing technical leadership to support constantly changing product requirements and strategy
+- Technical analysis of business requirements
+- Leading product development
+- Identification of staffing needs, recruitment, and selection
+- Overseeing company operations
+
+
+### Software developer, Contractor
+
+Years: 2005 - 2011
+
+Through my freelance career I worked both solo and as a team member.
+
+Projects scale from small websites, e-shops, apps to complex custom-made systems.
+
 
 
 ## Certifications
@@ -55,6 +109,7 @@ Bachelor's degree of Computer Science
 ## Projects
 
 // TBD
+
 
 
 ## Contacts
