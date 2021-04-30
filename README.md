@@ -19,9 +19,9 @@ Expertise:
 - Experience managing teams of up to 20+ people
 - Experience managing several concurrent projects
 - Agile Project Management and delivery
+- Team coaching and mentoring
 - Skilled Change Manager: process analysis, design, implementation, and maintenance
 - Business Analysis and specification writing skills
-- Team coaching and mentoring
 - Measuring and improving the efficiency of software delivery and company performance
 
 
