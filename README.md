@@ -21,6 +21,7 @@ Expertise:
 - Agile Project Management and delivery
 - Skilled Change Manager: process analysis, design, implementation, and maintenance
 - Business Analysis and specification writing skills
+- Team coaching and mentoring
 - Measuring and improving the efficiency of software delivery and company performance
 
 
