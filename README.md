@@ -78,9 +78,11 @@ Main responsibilities:
 
 Years: 2005 - 2011
 
-Through my freelance career I worked both solo and as a team member.
+As a freelancer, I was responsible for the entire project development process: client needs analysis, project planning, development, testing, deployment, and maintenance.
 
-Projects scale from small websites, e-shops, apps to complex custom-made systems.
+I worked both solo and as a team member.
+
+Projects scale from small websites/e-shops/apps to complex custom-built systems/CRM's.
 
 
 
