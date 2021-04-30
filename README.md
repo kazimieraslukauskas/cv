@@ -4,7 +4,7 @@
 
 ## About me
 
-Pragmatic and down to earth IT professional with progressive more than 15 years of experience in the industry, Kazimieras is now CEO at MeritStory, where he works at the intersection of business and technology, helping clients research, identify, and create the right software products to suit their needs.
+Pragmatic and down to earth IT professional with progressive more than 15 years of experience in the industry, Currently i am CEO at MeritStory, where I work at the intersection of business and technology, helping clients research, identify, and create the right software products to suit their needs.
 
 Focus areas:
 - Company management
@@ -12,7 +12,7 @@ Focus areas:
 - Business analysis
 - Project management
 - Company culture nurturing
-- Compiling project teams
+- Gathering project teams
 - Building partner network
 
 I also commonly serve as a technical/business expert and system architect on a variety of projects. These projects effectively utilize my background and experience to bridge the gap between technology and business.
