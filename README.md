@@ -4,7 +4,7 @@
 
 ## About me
 
-Pragmatic and down to earth IT professional with progressive more than 15 years of experience in the industry, Currently i am CEO at MeritStory, where I work at the intersection of business and technology, helping clients research, identify, and create the right software products to suit their needs.
+I am a pragmatic and down-to-earth IT professional with progressive more than 15 years of experience in the industry. Currently, I am CEO at MeritStory, where I work at the intersection of business and technology, helping clients research, identify, and create the right software products to suit their needs.
 
 Focus areas:
 - Company management
