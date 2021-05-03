@@ -40,9 +40,9 @@ Main responsibilities:
 - Client relationships management
 - Client business needs analysis and technical solution proposition
 - Establishing project budgets, negotiating contracts, and scheduling teams
-- Leading of software development teams
-- Setting long and short term goals for employees, monitoring of achievements
-- Identification of staffing needs, recruitment and selection
+- Leading software development teams
+- Setting long and short term goals for employees, monitoring achievements
+- Identification of staffing needs, recruitment, and selection
 - Public and private sector sales
 
 
@@ -55,9 +55,9 @@ Main responsibilities:
 - Client relationships management
 - Client business needs analysis and technical solution proposition
 - Establishing project budgets, negotiating contracts, and scheduling teams
-- Leading of software development teams
-- Setting long and short term goals for employees, monitoring of achievements
-- Identification of staffing needs, recruitment and selection
+- Leading software development teams
+- Setting long and short term goals for employees, monitoring achievements
+- Identification of staffing needs, recruitment, and selection
 - Public and private sector sales
 
 
@@ -82,7 +82,7 @@ As a freelancer, I was responsible for the entire project development process: c
 
 I worked both solo and as a team member.
 
-Projects scale from small websites/e-shops/apps to complex custom-built systems/CRM's.
+Projects scale from small websites/e-shops/apps to complex custom-built systems/CRM's
 
 
 
