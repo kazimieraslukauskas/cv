@@ -35,7 +35,6 @@ Expertise:
 Years: 2020 - present
 
 Main responsibilities:
-
 - Company processes and strategy management
 - Client relationships management
 - Client business needs analysis and technical solution proposition
@@ -51,7 +50,6 @@ Main responsibilities:
 Years: 2011 - 2020
 
 Main responsibilities:
-
 - Client relationships management
 - Client business needs analysis and technical solution proposition
 - Establishing project budgets, negotiating contracts, and scheduling teams
@@ -60,18 +58,23 @@ Main responsibilities:
 - Identification of staffing needs, recruitment, and selection
 - Public and private sector sales
 
+Key achievements:
+- Joining the company as the 4th full-time employee, I helped grow the company to 100+ employees in Lithuania alone and become an international software development company.
+
 
 ### Co-owner, CTO & Managing Director at Timebase
 
 Years: 2013 - 2018
 
 Main responsibilities:
-
 - Providing technical leadership to support constantly changing product requirements and strategy
 - Technical analysis of business requirements
 - Leading product development
 - Identification of staffing needs, recruitment, and selection
 - Overseeing company operations
+
+Key achievements:
+- Just in 3 months, we designed and built an MVP version of the product that eventually grew up into a complex solution for managing all company operations. It became a critical internal tool for a group of companies with more than 500 employees.
 
 
 ### Software developer, Contractor
@@ -104,7 +107,7 @@ Credential ID: [03041374-01-DX4Y](https://drive.google.com/file/d/1QvKjg36DZqBF6
 
 Years: 2004 - 2008
 
-Bachelor's degree of Computer Science
+Bachelor's degree in Computer Science
 
 
 
